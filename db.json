@@ -1,0 +1,155 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userName": "Rohit_Kumar",
+      "createdAt": "2022-05-20T12:27:20.929Z",
+      "updatedAt": "2022-05-20T12:27:20.929Z",
+      "email": "re-rohit@indicchain.com",
+      "Origization": "Mobiloitte",
+      "userid": 54231
+    },
+    {
+      "id": 2,
+      "userName": "Saurabh Tomar",
+      "createdAt": "2022-05-20T12:27:20.929Z",
+      "updatedAt": "2022-05-20T12:27:20.929Z",
+      "email": "re-saurabh@indicchain.com",
+      "Origization": "Mobiloitte",
+      "userid": 12356
+    },
+    {
+      "id": 3,
+      "userName": "Monu_Kumar",
+      "createdAt": "2022-05-20T12:27:20.929Z",
+      "updatedAt": "2022-05-20T12:27:20.929Z",
+      "email": "re-monu@indicchain.com",
+      "Origization": "Mobiloitte",
+      "userid": 93654
+    },
+    {
+      "id": 4,
+      "userName": "Sonu Tyagi",
+      "createdAt": "2022-05-20T12:27:20.929Z",
+      "updatedAt": "2022-05-20T12:27:20.929Z",
+      "email": "re-sonu@indicchain.com",
+      "Origization": "Mobiloitte",
+      "userid": 24578
+    },
+    {
+      "id": 5,
+      "userName": "Jatin Dutt",
+      "createdAt": "2022-05-20T12:27:20.929Z",
+      "updatedAt": "2022-05-20T12:27:20.929Z",
+      "email": "re-jatin@indicchain.com",
+      "Origization": "Mobiloitte",
+      "userid": 32547
+    },
+    {
+      "id": 6,
+      "userName": "Jatin Dutt",
+      "createdAt": "2022-05-20T12:27:20.929Z",
+      "updatedAt": "2022-05-20T12:27:20.929Z",
+      "email": "re-jatin@indicchain.com",
+      "Origization": "Mobiloitte",
+      "userid": 32547
+    },
+    {
+      "id": 7,
+      "userName": "Jatin Dutt",
+      "createdAt": "2022-05-20T12:27:20.929Z",
+      "updatedAt": "2022-05-20T12:27:20.929Z",
+      "email": "re-jatin@indicchain.com",
+      "Origization": "Mobiloitte",
+      "userid": 32547
+    }
+  ],
+  "category": [
+    {
+      "image": "",
+      "email": "no-moin@mobiloitte.com",
+      "categoryName": "Jatin Banner Upload",
+      "id": 2
+    },
+    {
+      "image": "",
+      "email": "no-moin@mobiloitte.com",
+      "categoryName": "Jatin Banner Upload",
+      "id": 3
+    },
+    {
+      "image": "",
+      "email": "no-moin@mobiloitte.com",
+      "categoryName": "Jatin Banner Upload",
+      "id": 4
+    },
+    {
+      "image": "",
+      "email": "no-moin@mobiloitte.com",
+      "categoryName": "Jatin Banner Upload",
+      "id": 5
+    },
+    {
+      "image": "",
+      "email": "no-moin@mobiloitte.com",
+      "categoryName": "Jatin Banner Upload",
+      "id": 6
+    },
+    {
+      "image": "",
+      "email": "no-moin@mobiloitte.com",
+      "categoryName": "Jatin Banner Upload",
+      "id": 7
+    },
+    {
+      "image": "",
+      "email": "no-moin@mobiloitte.com",
+      "categoryName": "Jatin Banner Upload",
+      "id": 8
+    },
+    {
+      "image": "",
+      "email": "no-moin@mobiloitte.com",
+      "categoryName": "Jatin Banner Upload",
+      "id": 9
+    }
+  ],
+  "Banner": [
+    {
+      "id": 1,
+      "BannerIcon": "images/profileicon.png",
+      "Title": "Banner updated",
+      "CreatedAt": "2022-05-20T12:27:20.929Z"
+    },
+    {
+      "id": 2,
+      "BannerIcon": "images/profileicon.png",
+      "Title": "Banner updated",
+      "CreatedAt": "2022-05-20T12:27:20.929Z"
+    },
+    {
+      "id": 3,
+      "BannerIcon": "images/profileicon.png",
+      "Title": "Banner updated",
+      "CreatedAt": "2022-05-20T12:27:20.929Z"
+    },
+    {
+      "id": 4,
+      "BannerIcon": "images/profileicon.png",
+      "Title": "Banner updated",
+      "CreatedAt": "2022-05-20T12:27:20.929Z"
+    },
+    {
+      "id": 5,
+      "BannerIcon": "images/profileicon.png",
+      "Title": "Banner updated",
+      "CreatedAt": "2022-05-20T12:27:20.929Z"
+    },
+    {
+      "id": 6,
+      "BannerIcon": "images/profileicon.png",
+      "Title": "Banner updated",
+      "CreatedAt": "2022-05-20T12:27:20.929Z"
+    }
+  ]
+}
